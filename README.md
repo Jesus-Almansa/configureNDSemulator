@@ -1,4 +1,3 @@
-````markdown
 # 🍉 melonDS en Ubuntu 24
 
 Guía completa para instalar y configurar el emulador **melonDS** en Ubuntu 24, con alias, acceso directo con icono personalizado y configuración de la ruta de guardado.  
